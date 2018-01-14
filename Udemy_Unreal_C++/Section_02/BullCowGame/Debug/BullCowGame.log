@@ -1,6 +1,0 @@
-﻿  main.cpp
-  FBullCowGame.cpp
-  Generating Code...
-d:\ualberta\udemy_unreal_c++\section_02\bullcowgame\fbullcowgame.cpp(63): warning C4715: 'FBullCowGame::CheckGuessValidity': not all control paths return a value
-d:\ualberta\udemy_unreal_c++\section_02\bullcowgame\main.cpp(114): warning C4715: 'GetValidGuess': not all control paths return a value
-  BullCowGame.vcxproj -> D:\UAlberta\Udemy_Unreal_C++\Section_02\Debug\BullCowGame.exe
