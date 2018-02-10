@@ -3,11 +3,17 @@
 ##########################
 */Build
 */DerivedDataCache
+*/Saved
 Udemy_Unreal_C++/Section_03_BuildingEscape/BuildingEscape/Intermediate/
 Udemy_Unreal_C++/Section_03_BuildingEscape/BuildingEscape/Saved/
 Udemy_Unreal_C++/Section_03_BuildingEscape/BuildingEscape/Binaries/
 Udemy_Unreal_C++/Section_03_BuildingEscape/BuildingEscape/Content/StarterContent/
+Udemy_Unreal_C++/Section_03_BuildingEscape/
 ######################
 # VS Generated Files #
 ######################
 *.VC.db
+*.suo
+ARCore_project/
+ARProjectVuforia/ARProjectVuforia.csproj
+ARProjectVuforia/
